@@ -36,9 +36,13 @@ a,
   width: 0;
 }
 
+li {
+  list-style: none;
+}
+
 .checkmark {
   position: absolute;
-  top: 0;
+  top: 6px;
   left: 0;
   height: 25px;
   width: 25px;
